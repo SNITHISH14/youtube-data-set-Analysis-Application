@@ -1,5 +1,9 @@
 # youtube-data-set-Analysis-Application
-This dataset is take in Kaggle
+This dataset is take in Kaggle   
+About this file
+ Overview of the YouTube 2025 Dataset
+
+This futuristic dataset offers a detailed look at 5,000 YouTube channels, designed to reflect how content creation might evolve by the year 2025. It explores not only the traditional metrics like subscriber count and video stats but also dives deep into cutting-edge trends such as AI-generated content, neural interface compatibility, and metaverse integration.
 
 This project is a simple data analysis application using a machine learning model to analyze a YouTube dataset.
 
